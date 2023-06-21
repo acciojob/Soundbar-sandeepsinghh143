@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#A278B5;
+}
+container{
+	height:100vh;
+}
+.btn{
+	background-color:#7027A0;
+	border:none;
+	padding:10px 20px;
+	border-radius:3px;
+}
+#buttons{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
